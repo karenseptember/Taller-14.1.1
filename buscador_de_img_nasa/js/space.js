@@ -19,7 +19,6 @@
                                             //que se solicitan mas adelante
     })}
 
-
     function mostrarInfo(array){//funcion que realiza el recorrido del arreglo junto con la presentacion 
      container.innerHTML = ''; //El contenedor vacio cada vez que haga una busqueda para que se pueda insertar 
     for (let img of array){//recorrido del arreglo
