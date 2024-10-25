@@ -1,0 +1,50 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  img{
+    height: 12em;
+  }
+  .card-body{
+  
+    height: 15em;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,247,107)); 
+  }
+
+  .card-text{
+height:7em;
+overflow-y: scroll;
+margin-top: 2em;
+  }
+
+  .card-title{
+    height: 1em;
+  }
+
+  .card-group{
+    margin-left: 0em;
+    margin-right: 0em;
+    border-color: black;
+  }
+
+  .card{
+    margin-bottom: 1em;
+  }
+
+ body{
+background-image: url(mimim.jpg);
+
+}
+h1{
+  font-weight: bold;
+  font-size: 4em;
+   color: white;
+   
+   -webkit-text-stroke: 3px white;
+}
+
+.mb-1{
+  color:white;
+}
+  
+   
